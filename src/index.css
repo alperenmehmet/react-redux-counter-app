@@ -54,3 +54,11 @@ code {
   text-transform: uppercase;
   font-size: 1.5rem;
 }
+
+input {
+  padding: 0.5rem;
+  border: 2px solid #ccc;
+  border-radius: 0.25rem;
+  font-size: 1.5rem;
+  text-align: center;
+}
